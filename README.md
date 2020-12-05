@@ -5,15 +5,15 @@ In this assignment, we are going to use ```Abstract``` classes and ```Interfaces
 
 **Objectives:**
 
-    * Define classes.
+  * Define classes.
 
-    * Define Interfaces.
+  * Define Interfaces.
 
-    * Implement classes that use abstract classes and interfaces.
+  * Implement classes that use abstract classes and interfaces.
 
 **Tasks:**
 
-    * Create a ```Phone``` abstract class.
+  * Create a ```Phone``` abstract class.
 
 **Phone.java**
 ```java
@@ -37,10 +37,14 @@ public abstract class Phone {
 
     * ```ring()```: This method returns a ```String```.
     * ```unlock()```: This method returns a ```String```.
-Ringable.java
+    
+**Ringable.java**
+```java
 public interface Ringable {
     // your code here
 }
+```
+
 * Create an ```IPhone``` and ```Galaxy``` classes. Both classes should extend from the ```Phone``` abstract class and implement the ```Ringable``` interface.
 
 **IPhone.java**
