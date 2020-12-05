@@ -4,6 +4,7 @@
 In this assignment, we are going to use ```Abstract``` classes and ```Interfaces``` to create 2 types of phones: iPhone and Galaxy.
 
 **Objectives:**
+
     * Define classes.
 
     * Define Interfaces.
@@ -11,6 +12,7 @@ In this assignment, we are going to use ```Abstract``` classes and ```Interfaces
     * Implement classes that use abstract classes and interfaces.
 
 **Tasks:**
+
     * Create a ```Phone``` abstract class.
 
 **Phone.java**
